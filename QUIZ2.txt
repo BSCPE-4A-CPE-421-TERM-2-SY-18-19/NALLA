@@ -1,0 +1,4 @@
+Why did the RPie Model B did not start?
+
+	The reason why the RPie Model B did not start was because the charger 
+being used was the charger for RPie Model B+, maybe the charger wasn't compatible for different model. Maybe there were issue about the ampere rate of the charger. There are many reasons why a microcomputer didn't start right away, we must troubleshoot thoroughly before we conclude that it was broken. 

@@ -1,0 +1,8 @@
+Why did the P5GC (ASUS)/1333 INTEL did not boot to BIOS?
+
+	Before you proceed to a more complicated diagnostics try to check 
+whether your power outlet is properly working. After checking that also try to check also your Power Supply Unit it its properly working. If those mentioned were okay try to open your system unit and check your power supply cables if its properly mounted/connected.
+   
+	If the problem is still there try also to check if the front panel connectors are connected.
+
+	If those mentioned above are okay, your RAM might br faulty, or the CPU is dead. 
